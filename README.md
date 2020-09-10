@@ -13,7 +13,7 @@ O público alvo será empresas ou pessoas físicas que desejam realizar o desenv
 
 Tem como intuito ajudar qualquer pessoas ou empresas interressada, independente do seu tamanho ou área de atuação, no desenvolvimento de um software, buscando na aplicação um desenvolvedor que vá atender suas necessidades e seus custos. Visando assim a movimentação do mercado de trabalho dos desenvolvedores freelancer que necessitam de uma plataforma centrada para unir as pessoas que necessitam desse tipo de operação.
 
-# Funcionalidades básicas que o projeto deveria contemplar
+# Objetivos especificos
 
 1. Ajudar programadores que buscam um emprego a encontrar empresas.
 
@@ -24,3 +24,8 @@ Tem como intuito ajudar qualquer pessoas ou empresas interressada, independente 
 4. Ajudar pessoas sem muito contato com programação a encontrar profissionais competentes para desenvolver suas ideias.
 
 5. Contribuir para a comunidade ajudando a aproximar os desenvolvedores dos clientes.
+
+
+# Funcionalidades básicas que o projeto deveria contemplar
+
+![](tabela-funci.png)
